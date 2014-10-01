@@ -1,6 +1,6 @@
 [submodule "angry-flappy-bird-crush"]
-	path = angry-flappy-bird-crush
+	path = demo/angry-flappy-bird-crush
 	url = https://github.com/robertmaldon/angry-flappy-bird-crush
 [submodule "youparty"]
-	path = youparty
+	path = demo/youparty
 	url = https://github.com/robertmaldon/youparty
