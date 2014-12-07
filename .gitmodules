@@ -4,3 +4,6 @@
 [submodule "youparty"]
 	path = demo/youparty
 	url = https://github.com/robertmaldon/youparty
+[submodule "demo/my-little-miss-books"]
+	path = demo/my-little-miss-books
+	url = https://github.com/robertmaldon/my-little-miss-books
